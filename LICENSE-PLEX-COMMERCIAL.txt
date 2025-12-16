@@ -1,8 +1,8 @@
-PLEX Runtime™ Commercial License
+Policy-Keys™ Commercial License
 
 Copyright (c) James-Brian-Chapman
 
-This license grants the right to use PLEX Runtime™ in commercial and
+This license grants the right to use Policy-Keys™ in commercial and
 revenue-generating environments under negotiated terms.
 
 Redistribution or resale requires written permission.
